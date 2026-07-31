@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Data+Solutions;Engineering+Scalable+Analytics+Platforms;Exploring+AI,+LLMs+%26+Data+Engineering;Transforming+Data+into+Business+Impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Data+Solutions" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">Steve Nadar</h1>
@@ -84,8 +84,8 @@ Engineering intelligent systems where analytics, scalable data platforms and AI 
 ## 📊 Development Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stevenadar&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stevenadar&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenadar&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenadar&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 ---
 
