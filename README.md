@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Data+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Intelligent+Data+Solutions" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Steve Nadar</h1>
+<h1 align="center">Steve Nadar</h1>
 
 <h3 align="center">
-Data Analytics • Machine Learning • Artificial Intelligence
+Data Analytics Engineer • Business Intelligence • Artificial Intelligence • Machine Learning
 </h3>
 
 <p align="center">
-Turning raw data into actionable insights through analytics, machine learning and scalable data engineering.
+Engineering intelligent systems where analytics, scalable data platforms and AI converge to solve real-world business problems.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=stevenadar&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=stevenadar&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6"/>
 
 </p>
 
@@ -38,51 +38,43 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 # 🚀 About Me
 
-🎓 B.Tech Student @ IIITDM Jabalpur
+🎓 B.Tech Student @ **IIITDM Jabalpur**
 
-📊 Passionate about Data Analytics, Machine Learning, Deep Learning & NLP
+📊 Focused on **Data Analytics, Business Intelligence & Machine Learning**
 
-⚡ Building end-to-end Data Analytics & Data Engineering projects
+⚡ Building **end-to-end analytics platforms, interactive dashboards and scalable data pipelines**
 
-🤖 Exploring LLMs, RAG, Agentic AI & Generative AI
+🤖 Exploring **LLMs, Agentic AI, RAG and Modern Data Engineering**
 
-🌱 Interested in Data Analytics • Business Intelligence • Data Engineering • AI
+🎯 Seeking opportunities in **Data Analytics • Business Intelligence • Data Engineering • AI**
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Programming
-
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,azure"/>
 
-</p>
-
----
-
-### 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-</p>
-
----
-
-### 📊 Analytics & Visualization
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<br><br>
 
 <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Delta_Lake-0F5BA7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Eventstream-0094FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Eventhouse-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KQL-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
@@ -92,35 +84,15 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
 
-</p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-### ⚡ Data Engineering
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark"/>
-
-<img src="https://img.shields.io/badge/Delta_Lake-0C3B5E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Eventstream-0094FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Eventhouse-1D4ED8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/KQL-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks"/>
-
-</p>
-
----
-
-### 🤖 Machine Learning & AI
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<br>
 
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface"/>
 
@@ -128,7 +100,7 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge"/>
 
@@ -138,21 +110,7 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 ---
 
-### ☁ Cloud & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -172,28 +130,35 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 ---
 
-# 🏆 Highlights
-
-- 💼 10+ Data Analytics & Business Intelligence Projects
-- 📊 End-to-End Microsoft Fabric Analytics Solutions
-- 📈 Interactive Power BI Dashboards
-- ⚡ Real-Time Analytics Pipelines
-- 🧠 Machine Learning & AI Exploration
-- 📚 Continuously Learning Modern Data Technologies
-
----
-
 # 🌱 Currently Exploring
 
-- 🤖 Large Language Models (LLMs)
-
+- 🧠 Large Language Models (LLMs)
 - 🔍 Retrieval-Augmented Generation (RAG)
-
-- ⚡ Agentic AI
-
-- 📊 Microsoft Fabric
-
-- 🧠 Deep Learning
+- 🤖 Agentic AI
+- ⚡ Microsoft Fabric
+- 📊 Modern Data Engineering
+- 🧩 Applied Machine Learning
 
 ---
 
+# 🏆 Highlights
+
+- 📊 Built multiple end-to-end Data Analytics & Business Intelligence projects
+- ⚡ Developed scalable analytics solutions using Microsoft Fabric
+- 📈 Designed interactive Power BI dashboards for business insights
+- 🗄️ Strong foundation in SQL, Python & Data Visualization
+- 🤖 Continuously expanding expertise in AI and modern data technologies
+
+---
+
+# 💭 Philosophy
+
+> **"Great analytics doesn't just explain the past—it empowers better decisions for the future."**
+
+---
+
+<p align="center">
+
+⭐ Thanks for stopping by! Feel free to explore my repositories and connect with me.
+
+</p>
