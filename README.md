@@ -1,15 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Intelligent+Data+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Intelligent+Data+Solutions" alt="Typing SVG"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Steve Nadar</h1>
 
+<h3 align="center">
+Data Analytics • Machine Learning • AI • Business Intelligence
+</h3>
+
 <p align="center">
-<b>Data Analytics • Machine Learning • AI • Business Intelligence</b>
+Turning raw data into actionable insights through analytics, machine learning, and scalable data solutions.
 </p>
 
 <p align="center">
-Turning raw data into actionable insights through analytics, machine learning and scalable data solutions.
+
+<a href="https://www.linkedin.com/in/steve-nadar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:stevenadar2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://acesse.one/uarg1t5">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=stevenadar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -18,7 +38,7 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 - 🎓 B.Tech @ **IIITDM Jabalpur**
 - 📊 Passionate about **Data Analytics, Machine Learning, Deep Learning & NLP**
-- 💻 Building end-to-end Analytics & Data Engineering projects
+- 💻 Building end-to-end **Analytics & Data Engineering** solutions
 - 🌱 Currently exploring **LLMs, RAG Systems & Agentic AI**
 - 🎯 Interested in **Data Analytics • Data Engineering • Artificial Intelligence**
 
@@ -64,7 +84,7 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenadar&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stevenadar&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -74,9 +94,9 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stevenadar&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenadar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenadar&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenadar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,47 +106,22 @@ Turning raw data into actionable insights through analytics, machine learning an
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=stevenadar&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=stevenadar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🌱 Currently Exploring
 
-📊 **ShoppingMart Fabric Analytics**
-
-End-to-end Microsoft Fabric analytics platform implementing Medallion Architecture with PySpark, Delta Lake and Power BI.
-
----
-
-📈 **Real-Time Stock Analytics**
-
-Streaming analytics solution built using Eventstream, Eventhouse (KQL) and Microsoft Fabric.
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ Agentic AI
+- 📊 Data Engineering with Microsoft Fabric
+- 🧠 Machine Learning & Deep Learning
 
 ---
 
+## 💡 Quote
 
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ <i>"Data becomes valuable when transformed into meaningful insights that drive impactful decisions."</i>
-</p>
+> *"Data becomes valuable when transformed into meaningful insights that drive impactful decisions."*
