@@ -81,14 +81,12 @@ Engineering intelligent systems where analytics, scalable data platforms and AI 
 </p>
 
 ---
-
-# 📊 GitHub Statistics
+## 📊 Development Summary
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stevenadar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenadar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stevenadar&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stevenadar&theme=tokyonight"/>
 </p>
-
 ---
 
 # 💭 Philosophy
