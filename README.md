@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Steve Nadar</h1>
 
-<!--
-**stevenadar/stevenadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Data Analytics • Machine Learning • AI • Business Intelligence
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable analytics solutions with **SQL, Python, Power BI & Microsoft Fabric**
+
+Exploring **Machine Learning, Deep Learning, NLP, LLMs & RAG**
+
+Interested in **Data Analytics | Data Engineering | AI**
+
+IIITDM Jabalpur
+
+---
+
+**Tech:** Python • SQL • Power BI • Microsoft Fabric • PySpark • Pandas • Scikit-Learn
